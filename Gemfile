@@ -62,3 +62,5 @@ gem "rest-client", "~> 2.1"
 gem "json", "~> 2.5"
 
 gem "pry", "~> 0.14.1", :group => :development
+
+gem "geocoder", "~> 1.6"
